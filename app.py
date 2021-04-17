@@ -45,5 +45,3 @@ def submit_form():
     else:
         return 'something went wrong. Try again!'
 
-
-app.run(host='0.0.0.0', port=5000)
